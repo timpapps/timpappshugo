@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://loganbentley.github.io/timpapps/sitemap.xml
