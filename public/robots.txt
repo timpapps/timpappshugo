@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://timpapps.github.io/timpapps//sitemap.xml
