@@ -1,4 +1,4 @@
-baseurl = "https://loganbentley.github.io/timpapps"
+baseurl = "https://timpapps.github.io/timpapps/"
 title = "Timp Development"
 theme = "dimension"
 languageCode = "en-us"
@@ -9,8 +9,9 @@ disableRSS = true
 [params]
   title = "Timp Development"
   description = '<!--[-->We build high quality, high performing, beautiful apps.<!--]-->'
-  logo = "fa-diamond"
+  logo = "fa-mountain"
   copyright = "Timp Development"
+  base = "/timpapps"
 
 [[params.social]]
   medium = "twitter"

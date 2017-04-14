@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>http://localhost:1313/timpapps/#about</loc>
+    <lastmod>2017-04-04T17:44:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/timpapps/#contact</loc>
+    <lastmod>2017-04-04T17:49:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/timpapps/#projects</loc>
+    <lastmod>2017-04-04T17:49:55-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/timpapps/#pricing</loc>
+    <lastmod>2017-04-04T17:49:44-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/timpapps/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/timpapps/#</loc>
+    <lastmod>2017-04-04T17:44:30-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/timpapps/#</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
