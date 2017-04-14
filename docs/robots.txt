@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://timpapps.github.io/timpapps//sitemap.xml
+Sitemap: https://timpapps.github.io/timpappshugo//sitemap.xml
